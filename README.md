@@ -1,4 +1,4 @@
-** `👨🏻‍💻 Lucas Nascimento` **
+# `👨🏻‍💻 Lucas Nascimento` 
 
 Sou estudante de Ciência da Computação na UFAM, apaixonado por tecnologia e inovação. Tenho experiência tenho experiência acadêmica com desenvolvimento de software, desenvolvimento Android e sistemas embarcados. Participo de projetos acadêmicos e pesquisa de iniciação científica, sempre buscando aprimorar minhas habilidades técnicas.
 
