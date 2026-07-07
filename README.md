@@ -1,42 +1,89 @@
-# 👨🏻‍💻 Lucas Nascimento Silva
+# 👨🏻‍💻 Lucas do Nascimento Silva
 
-Sou graduado em Ciência da Computação pela UFAM[cite: 1], focado em Desenvolvimento Web Full Stack, Mobile e Sistemas Embarcados[cite: 1]. 
+**Computer Scientist | Full Stack Developer | AI & Embedded Systems Enthusiast**
 
-Tenho experiência prática no mercado com **Testes de Software Automatizados** e análise de requisitos (ex-INDT)[cite: 1], além de sólida bagagem no desenvolvimento de soluções completas de ponta a ponta, unindo arquiteturas de backend robustas, interfaces dinâmicas[cite: 1] e integração com IA[cite: 1].
+Bacharel em Ciência da Computação pela Universidade Federal do Amazonas (UFAM), com experiência em desenvolvimento de software, Inteligência Artificial, desenvolvimento web, Android, sistemas embarcados (ESP32) e testes automatizados.
+
+Atuei como Estagiário de Teste de Software no INDT, desenvolvendo testes automatizados, analisando requisitos e contribuindo para estratégias de validação de software. Também participei de projetos de pesquisa envolvendo IA aplicada à geração automática de código, computação móvel e sistemas embarcados.
+
 
 📍 Manaus, AM • [LinkedIn](https://www.linkedin.com/in/lucas-nascimento-7023791b9/) • [Email](mailto:nascimento.lucas297@gmail.com)
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🚀 Linguagens e Tecnologias
 
-### 🌐 Programação Web & Full Stack
-* **Backend:** Desenvolvimento de APIs e serviços com Node.js e Django[cite: 1].
-* **Frontend / Mobile Web:** Construção de interfaces responsivas e aplicações híbridas com React e React Native[cite: 1].
-* **Ecossistema:** Experiência prática em arquitetura Full Stack, modelagem de sistemas e bancos de dados[cite: 1].
+### 💻 Linguagens
 
-### 📱 Mobile & Sistemas Embarcados
-* **Android Native:** Criação de aplicativos utilizando Kotlin, Java, arquitetura MVVM e Jetpack[cite: 1].
-* **IoT & Embarcados:** Programação para ESP32, Linux Embarcado, firmware, integração AOSP, camadas HAL/Drivers e protocolo MQTT[cite: 1].
+<p>
+  <img align="left" alt="C" title="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+  <img align="left" alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  <img align="left" alt="Java" title="Java" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="left" alt="Kotlin" title="Kotlin" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+  <img align="left" alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+</p>
 
-### ⚙️ Qualidade, Ferramentas & Processos
-* **QA:** Automação de testes, garantia de qualidade de software e validação de soluções[cite: 1].
-* **Ferramentas:** Controle de versão com Git e gerenciamento de repositórios no GitHub[cite: 1].
-* **Metodologias:** Prática ágil com Scrum e Kanban[cite: 1].
+<br><br>
+
+### ⚙️ Frameworks e Ferramentas
+
+<p>
+  <img align="left" alt="Django" title="Django" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+  <img align="left" alt="Android" title="Android" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
+  <img align="left" alt="Arduino" title="ESP32 / Arduino" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"/>
+  <img align="left" alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+  <img align="left" alt="Docker" title="Docker" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img align="left" alt="Linux" title="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+</p>
+
+<br><br>
+
+---
+
+## 💼 Áreas de Interesse
+
+- 🤖 Inteligência Artificial
+- 🌐 Desenvolvimento Full Stack
+- 📱 Desenvolvimento Android
+- 🔌 Sistemas Embarcados
+- 🧪 Testes Automatizados
+- ☁️ APIs e Desenvolvimento Backend
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### 🤖 [ESPAssist] - Geração Automática de Código para ESP32
-Ambiente web inteligente integrado à API do ChatGPT para geração de códigos estruturados voltados à plataforma ESP32 por meio de Engenharia de Prompts[cite: 1].
+### 🤖 ESPAssist
 
+Desenvolvimento de um ambiente web inteligente para geração automática de código para ESP32 utilizando Modelos de Linguagem (LLMs), Django e Arduino Framework.
+
+### 🧠 IA Neuro-Simbólica
+
+Pesquisa voltada ao reconhecimento de câncer utilizando aprendizado supervisionado e integração entre redes neurais e lógica simbólica.
+
+### 📱 HANDS-ON Final DevTItans
+
+Implementação de uma nova interface de carregamento
 
 ---
 
 ## 📊 Estatísticas
 
-<p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=uscnac&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uscnac&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" />
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right:10px;"
+    src="https://github-readme-stats.vercel.app/api?username=uscnac&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+
+  <img
+    align="left"
+    alt="Top Langs"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uscnac&theme=tokyonight&layout=compact&langs_count=8"
+  />
 </p>
+
+<br><br><br><br><br><br><br><br><br><br>
