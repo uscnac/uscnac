@@ -1,30 +1,42 @@
-# 👨🏻‍💻 Lucas Nascimento  
+# 👨🏻‍💻 Lucas Nascimento Silva
 
-Sou estudante de Ciência da Computação na UFAM, apaixonado por tecnologia e inovação. Tenho experiência acadêmica com desenvolvimento de software, desenvolvimento Android e sistemas embarcados. Participo de projetos acadêmicos e pesquisa de iniciação científica, sempre buscando aprimorar minhas habilidades técnicas.  
+Sou graduado em Ciência da Computação pela UFAM[cite: 1], focado em Desenvolvimento Web Full Stack, Mobile e Sistemas Embarcados[cite: 1]. 
 
-📍 Manaus, AM • [LinkedIn](https://www.linkedin.com/in/lucas-nascimento-7023791b9/) • [Email](mailto:nascimento.lucas297@gmail.com)  
+Tenho experiência prática no mercado com **Testes de Software Automatizados** e análise de requisitos (ex-INDT)[cite: 1], além de sólida bagagem no desenvolvimento de soluções completas de ponta a ponta, unindo arquiteturas de backend robustas, interfaces dinâmicas[cite: 1] e integração com IA[cite: 1].
 
----
-
-## 🚀 Linguagens e Tecnologias  
-
-<img align="left" alt="C" title="C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />  
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
-<img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />  
-<img align="left" alt="Kotlin" title="Kotlin" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />  
-<img align="left" alt="Android" title="Android" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />  
-<img align="left" alt="Embedded Systems" title="Sistemas Embarcados" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />  
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
-
-<br/><br/>
+📍 Manaus, AM • [LinkedIn](https://www.linkedin.com/in/lucas-nascimento-7023791b9/) • [Email](mailto:nascimento.lucas297@gmail.com)
 
 ---
 
-## 📊 Estatísticas  
+## 🛠️ Tecnologias e Ferramentas
 
-<p>  
-  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=uscnac&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />  
-  <img align="left" alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uscnac&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" />  
-</p>  
+### 🌐 Programação Web & Full Stack
+* **Backend:** Desenvolvimento de APIs e serviços com Node.js e Django[cite: 1].
+* **Frontend / Mobile Web:** Construção de interfaces responsivas e aplicações híbridas com React e React Native[cite: 1].
+* **Ecossistema:** Experiência prática em arquitetura Full Stack, modelagem de sistemas e bancos de dados[cite: 1].
+
+### 📱 Mobile & Sistemas Embarcados
+* **Android Native:** Criação de aplicativos utilizando Kotlin, Java, arquitetura MVVM e Jetpack[cite: 1].
+* **IoT & Embarcados:** Programação para ESP32, Linux Embarcado, firmware, integração AOSP, camadas HAL/Drivers e protocolo MQTT[cite: 1].
+
+### ⚙️ Qualidade, Ferramentas & Processos
+* **QA:** Automação de testes, garantia de qualidade de software e validação de soluções[cite: 1].
+* **Ferramentas:** Controle de versão com Git e gerenciamento de repositórios no GitHub[cite: 1].
+* **Metodologias:** Prática ágil com Scrum e Kanban[cite: 1].
 
 ---
+
+## 🚀 Projetos em Destaque
+
+### 🤖 [ESPAssist] - Geração Automática de Código para ESP32
+Ambiente web inteligente integrado à API do ChatGPT para geração de códigos estruturados voltados à plataforma ESP32 por meio de Engenharia de Prompts[cite: 1].
+
+
+---
+
+## 📊 Estatísticas
+
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=uscnac&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uscnac&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" />
+</p>
