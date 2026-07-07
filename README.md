@@ -4,7 +4,7 @@
 
 Bacharel em Ciência da Computação pela Universidade Federal do Amazonas (UFAM), com experiência em desenvolvimento de software, Inteligência Artificial, desenvolvimento web, Android, sistemas embarcados (ESP32) e testes automatizados.
 
-Atuei como Estagiário de Teste de Software no INDT, desenvolvendo testes automatizados, analisando requisitos e contribuindo para estratégias de validação de software. Também participei de projetos de pesquisa envolvendo IA aplicada à geração automática de código, computação móvel e sistemas embarcados.
+Atuei como Estagiário de Teste de Software no INDT, desenvolvendo testes automatizados, analisando requisitos e contribuindo para estratégias de validação de software. Também participei de projetos de pesquisa envolvendo IA aplicada à geração automática de código, desennvolvimento web e sistemas embarcados.
 
 
 📍 Manaus, AM • [LinkedIn](https://www.linkedin.com/in/lucas-nascimento-7023791b9/) • [Email](mailto:nascimento.lucas297@gmail.com)
