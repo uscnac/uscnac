@@ -46,8 +46,6 @@ Atuei como Estagiário de Teste de Software no INDT, desenvolvendo testes automa
 - 🌐 Desenvolvimento Full Stack
 - 📱 Desenvolvimento Android
 - 🔌 Sistemas Embarcados
-- 🧪 Testes Automatizados
-- ☁️ APIs e Desenvolvimento Backend
 
 ---
 
