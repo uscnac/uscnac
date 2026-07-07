@@ -67,21 +67,12 @@ Implementação de uma nova interface de carregamento
 
 ## 📊 Estatísticas
 
-<p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right:10px;"
-    src="https://github-readme-stats.vercel.app/api?username=uscnac&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-
-  <img
-    align="left"
-    alt="Top Langs"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uscnac&theme=tokyonight&layout=compact&langs_count=8"
-  />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uscnac&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uscnac&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uscnac&theme=tokyonight" width="49%"/>
+</p>
 <br><br><br><br><br><br><br><br><br><br>
